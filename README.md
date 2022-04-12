@@ -4,4 +4,4 @@
 </div>
 
 * livros de tcnologia
-* tem um livro bacana de tecnologia? clone esse repo adicione napasta o seus livreo e sobe pra esse repositorio assi que der dou um merge!
+* tem um livro bacana de tecnologia? clone esse repo adicione na pasta o seus livros, e sobe pra esse repositorio assim que der dou um merge!
