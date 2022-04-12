@@ -8,7 +8,7 @@
     </div>
 </div>
 
-* livros de tcnologia
+* livros de tecnologia
 * tem um livro bacana de tecnologia? clone esse repo adicione na pasta o seus livros, e sobe pra esse repositorio assim que der dou um merge!
 
 
